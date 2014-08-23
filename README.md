@@ -1,5 +1,6 @@
 
 # Meteor Bootstrap Tokenfield for Bootstrap-3
+### *Note: This is work in progress *
 
 
 [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield), it is repacked to use in Meteor
