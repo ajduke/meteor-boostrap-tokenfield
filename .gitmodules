@@ -1,0 +1,3 @@
+[submodule "lib/bootstrap-tokenfield"]
+	path = lib/bootstrap-tokenfield
+	url = https://github.com/sliptree/bootstrap-tokenfield

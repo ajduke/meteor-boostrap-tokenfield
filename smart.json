@@ -1,0 +1,11 @@
+{
+  "name": "meteor-bootstrap-tokenfield",
+  "description": "Meteor package for Bootstrap Tokenfield",
+  "homepage": " https://github.com/ajduke/meteor-bootstrap-tokenfield.git",
+  "author": "Abhijeet Sutar <ajduke@about.me>",
+  "version": "0.1.0",
+  "git": "https://github.com/ajduke/meteor-bootstrap-tokenfield.git",
+    "packages": {
+    "bootstrap-3": ""
+  }
+}
