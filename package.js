@@ -1,7 +1,7 @@
 Package.describe({
     name: "ajduke:bootstrap-tokenfield",
     summary: "A jQuery tag/token input plugin for Twitter's Bootstrap, repackaged for Meteor.",
-    version: "0.2.0",
+    version: "0.3.0",
     git: " https://github.com/ajduke/meteor-bootstrap-tokenfield.git"
 });
 
