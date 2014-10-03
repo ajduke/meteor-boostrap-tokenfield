@@ -6,16 +6,8 @@
 [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield), it is repacked to use in Meteor
 
 ## How to use 
-Make sure Node, npm are installed.
 
-### Install Meteorite
-
-`npm install -g meteorite` 
-
-
-###Add to your application
-
-`mrt add bootstrap-tokenfield`
+`meteor add ajduke:bootstrap-tokenfield`
 
 
 For usage and detailed documentation, please consult following links-
@@ -26,4 +18,4 @@ For usage and detailed documentation, please consult following links-
 
 
 Note: Please note that this jquery plugin only be used with Bootstrap-3, which already packaged with this package
-If want to use functionality like `twitter typahead` and `jquery-ui autocomplete`, you need to separately add it via `meteorite`
+If want to use functionality like `twitter typahead` and `jquery-ui autocomplete`, you need to separately add it
