@@ -19,5 +19,8 @@ For usage and detailed documentation, please consult following links-
 - [Demo and Docs Site](http://sliptree.github.io/bootstrap-tokenfield)
 
 
-Note: Please note that this jquery plugin using Bootstrap-3, which already packaged with this packag.
+I have created repo, which contains the examples for using Tokenfield in Metoer-  https://github.com/ajduke/tokenfield-meteor-demo
+
+
+Note: Please note that this jquery plugin using Bootstrap-3, which already packaged with this package.
 If want to use functionality like `twitter typahead` and `jquery-ui autocomplete`, you need to add those separately  
